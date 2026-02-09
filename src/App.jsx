@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import FranchiseLocator from './components/FranchiseLocator';
 import FranchiseForm from './components/FranchiseForm';
+import CleaningGame from './components/CleaningGame'
 import BrandStory from './components/BrandStory';
 import Benefits from './components/Benefits';
 import Footer from './components/Footer';
@@ -19,6 +20,7 @@ function App() {
       <Hero />
       <Benefits /> 
       <BrandStory />
+      <CleaningGame />
       <FranchiseLocator />
       <FranchiseForm />
       <Footer />
